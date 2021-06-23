@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Felipe Barquero</title>
+    <link>https://felipebarquero.github.io/portfolio/portfolio/</link>
+    <description>Recent content in Portfolios on Felipe Barquero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="https://felipebarquero.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Füredi graphs and the projective norm graphs </title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work2/</guid>
+      <description>&lt;p&gt;Preprint containg  a generalization of the  bipartite free graphs by Füredi.&lt;br&gt;
+We prove this via defining a K_{t+1,t!+1}-free generalization of the
+Erdős-Rényi polarity graph, which contains both (projective norm graphs and Livinsky graphs) as an induced subgraph.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Text compressor using Huffmann trees (Java)</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work3/</guid>
+      <description>&lt;p&gt;Text Compressor using Huffmann codes. JAVA implementation and tested on old texts of literature.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysing Tesla Stocks using Random Forest (in progress) </title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Master Thesis on Extremal Combinatorics</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work4/</guid>
+      <description>&lt;p&gt;The construction of extremal families of graphs is a task often done with the aid of ideas and theorems from different areas of mathematics sometimes not immediately related to combinatorics.&lt;br&gt;
+The methods used in this thesis are borrowed from algebraic geometry and finite geometry and can be summarised as follows. Let $V$ be a set of points  inside a vector space $\mathbb{K}^d$  of dimension  $d$ over a field $\mathbb{K}$. Define a graph $G$  whose vertex set is $V$ and the edge relations are given by the pairs of vertices vanishing at a polynomial function&lt;br&gt;
+$$f:(\mathbb{K}^d)^2 \to \mathbb{K}$$
+(in this thesis we will take a billinear form). In order to gather useful geometric information we look through the theoretical lens of finite geometry, but we will also need the assistance of powerful algebraic methods to obtain some quantitative bounds on our arguments. As the graph we aim to build are finite we will use the finite fields $\mathbb{F}&lt;em&gt;{q}$. However in order to exploit the algebraic geometric tools, it is requiered for us to work over an algebraically closed field. As we need to include our finite objects we will analyse our phenomenae over the algebraic closure  $\overline {\mathbb{F}&lt;/em&gt;{q}}$ of our finite field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Relational database Exploration with Neo4j (To be published)</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work6/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upcomming project 7</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work7/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upcomming project 8</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work8/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work9/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work10/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upcomming project 1</title>
+      <link>https://felipebarquero.github.io/portfolio/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://felipebarquero.github.io/portfolio/portfolio/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
